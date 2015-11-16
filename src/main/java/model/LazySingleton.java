@@ -24,7 +24,7 @@ public class LazySingleton {
                 public void run() {
                     long begintime = System.currentTimeMillis();
                     for (int i = 0; i < 100000; i++)
-                        LazySingleton.getInstance();
+                        StaticSingleton.getInstance();
                     System.out.println("spend:" + (System.currentTimeMillis() - begintime));
                 }
             }).start();
