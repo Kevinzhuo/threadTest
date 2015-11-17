@@ -1,6 +1,4 @@
-package model;
-
-import com.sun.tools.javac.util.Assert;
+package model.single;
 
 import java.io.*;
 

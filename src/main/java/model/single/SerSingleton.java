@@ -1,6 +1,4 @@
-package model;
-
-import java.io.Serializable;
+package model.single;
 
 /**
  * Created by wangzhuo on 11/17/15.

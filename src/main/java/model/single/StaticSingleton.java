@@ -1,4 +1,4 @@
-package model;
+package model.single;
 
 /**
  * Created by wangzhuo on 11/16/15.
